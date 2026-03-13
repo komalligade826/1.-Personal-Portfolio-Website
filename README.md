@@ -1,1 +1,1 @@
-# 1.-Personal-Portfolio-Website
+# Komal-portfolio-template
